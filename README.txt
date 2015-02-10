@@ -11,7 +11,9 @@ Requires:
 How to Run:
 
 	from the Crawler directory:
-		ruby webCrawler.rb 
+		ruby webCrawler.rb
+
+	crawls the bowdoin.edu domain by default 
 
 Input:
 			
