@@ -3,6 +3,11 @@ author: Max Bucci
 date created: 11/11/14
 last modified: 11/16/14
 
+Requires:
+	open-uri
+	fuzzystringmatch
+	noko-giri
+
 How to Run:
 
 	from the Crawler directory:
